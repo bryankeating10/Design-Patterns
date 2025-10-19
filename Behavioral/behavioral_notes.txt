@@ -1,2 +1,7 @@
 1. Observer
     * Lets you define a subscription method to notify multiple objects about the object they are observing
+2. Strategy
+    * Lets you define a family of algorithms, put each of them into a separate class, and make their objects interchangable
+3. Momento
+    * Adding what you just did to a list of actions and then removing it from the list of actions when you 'undo' and adding
+      to a list of undo actions. When you press 'redo' it removes it from the undo list and adds it to the list of actions
