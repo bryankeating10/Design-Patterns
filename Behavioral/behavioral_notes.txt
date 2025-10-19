@@ -1,0 +1,2 @@
+1. Observer
+    * Lets you define a subscription method to notify multiple objects about the object they are observing
